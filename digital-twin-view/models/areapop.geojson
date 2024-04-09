@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "areapop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "1栋1号办公楼", "number": "200人", "x": 113.4511913, "y": 23.17721641, "z": 33.0 }, "geometry": { "type": "Point", "coordinates": [ 113.45119137648517, 23.177216412468756 ] } },
+{ "type": "Feature", "properties": { "id": 2, "name": "1栋2号办公楼", "number": "210人", "x": 113.450948, "y": 23.17748679, "z": 33.0 }, "geometry": { "type": "Point", "coordinates": [ 113.45094803618548, 23.177486790579511 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "1栋3号办公楼", "number": "260人", "x": 113.4506834, "y": 23.1777533, "z": 33.0 }, "geometry": { "type": "Point", "coordinates": [ 113.450683451891393, 23.177753306145828 ] } },
+{ "type": "Feature", "properties": { "id": 4, "name": "2栋1号办公楼", "number": "288人", "x": 113.450499, "y": 23.17812217, "z": 42.0 }, "geometry": { "type": "Point", "coordinates": [ 113.450499015394428, 23.178122179139791 ] } },
+{ "type": "Feature", "properties": { "id": 5, "name": "2栋2号宿舍公寓", "number": "300人", "x": 113.4501011, "y": 23.17771178, "z": 42.0 }, "geometry": { "type": "Point", "coordinates": [ 113.450101173317165, 23.177711783793104 ] } }
+]
+}
